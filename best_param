@@ -1,0 +1,19 @@
+CPLEX Parameter File Version 12.7.1.0
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Threads                                 1
+CPXPARAM_MIP_Strategy_VariableSelect             4
+CPXPARAM_MIP_Strategy_HeuristicFreq              50
+CPXPARAM_MIP_Limits_CutPasses                    1
+CPXPARAM_MIP_Strategy_Search                     1
+
+Having fine tuned:
+c38.dat.lp
+c52.dat.lp
+c62.dat.lp
+c64.dat.lp
+r12.3.dow.lp
+r14.3.dow.lp
+r15.2.dow.lp
+r18.2.dow.lp
+TB7.dow.lp
+TB8.dow.lp
