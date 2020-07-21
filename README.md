@@ -1,6 +1,6 @@
 ****************************************
 Note: The Makefile contains the local path of CPLEX, you need to update 
-it with you local path before compiling.
+it with your local path before compiling.
 
 The code generates an executable named "tuner" that can be used to make 
 CPLEX automatically finetune its parameters for your model by solving 
